@@ -1,4 +1,10 @@
 # kitti_tracking
+数据存放地址，要到kitti.py中修改路径：
+DATA_PATH='/home/chen/Downloads/kittidata/2011_09_26/2011_09_26_drive_0005_sync/'
+TRACKING_DATA_PATH="/home/chen/Downloads/kittidata/2011_09_26/2011_09_26_drive_0005_sync/training/label_02/0000.txt"
+CALIBRATION_PATH='/home/chen/Downloads/kittidata/2011_09_26'
+
+
 roscore
 
 
