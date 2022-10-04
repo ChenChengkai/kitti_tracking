@@ -19,4 +19,4 @@ cd kitti_tracking/
 catkin_make  
 source devel/setup.bash  
 rosrun kitti_tracking kitti.py
-![image](图片路径)
+![image](https://github.com/ChenChengkai/kitti_tracking/blob/master/pic/rviz_display.gif)
