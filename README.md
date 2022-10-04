@@ -21,7 +21,9 @@ git clone
 git clone git@github.com:ChenChengkai/kitti_tracking.git  
 chmod +x ./*.py
 cd 
+```
 cd kitti_tracking/  
+```
 catkin_make  
 source devel/setup.bash  
 rosrun kitti_tracking kitti.py
